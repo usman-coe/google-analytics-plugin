@@ -17,7 +17,6 @@
     "googleanalytics",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios",
     "analytics",
     "google",
     "universal",
